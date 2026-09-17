@@ -1,0 +1,9 @@
+# Each night's project is its own repo, pushed separately.
+builds/
+
+# Local run artifacts
+logs/
+state/.lock
+state/last-spec.json
+
+.DS_Store
